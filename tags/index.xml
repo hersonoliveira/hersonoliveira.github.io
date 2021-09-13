@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on h.oliveira</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on h.oliveira</description>
+    <title>Tags on herson.oliveira</title>
+    <link>https://hersonoliveira.github.io/tags/</link>
+    <description>Recent content in Tags on herson.oliveira</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 11:30:03 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://hersonoliveira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>/tags/first/</link>
+      <link>https://hersonoliveira.github.io/tags/first/</link>
       <pubDate>Wed, 01 Sep 2021 11:30:03 +0000</pubDate>
       
-      <guid>/tags/first/</guid>
+      <guid>https://hersonoliveira.github.io/tags/first/</guid>
       <description></description>
     </item>
     
