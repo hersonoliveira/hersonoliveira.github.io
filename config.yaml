@@ -1,0 +1,56 @@
+baseURL: "https://hersonoliveira.github.io/"
+title: herson.oliveira
+theme: "PaperMod"
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  defaultTheme: auto
+  # homeInfoParams:
+  #   Title: "Hello there 👋"
+  #   Content: "Can be Info, links, about..."
+  # socialIcons:
+    # - name: github
+    #   url: "https://github.com/hersonoliveira"
+    # - name: twitter
+    #   url: "<link2>"
+    # - name: linkedin
+    #   url: "https://www.linkedin.com/in/hersonoliveira/"
+  # ShowShareButtons: true
+  # ShowReadingTime: true
+  # ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifiers: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    # - identifier: archives
+    #   name: archives
+    #   url: /archives/
+    #   weight: 10
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: search
+      url: /search
+      weight: 40
+    - identifier: about
+      name: about
+      url: /about
+      weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
