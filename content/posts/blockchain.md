@@ -1,6 +1,6 @@
 ---
 title: "Blockchain 101"
-date: 2020-09-15T11:30:03+00:00
+date: 2021-11-13T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["crypto", "blockchain"]
@@ -34,4 +34,4 @@ cover:
 ---
 This is a really good explanation about Blockchain. It really helped me to understand concepts that I've read before but couldn't grasp like block and chain validation, how immutability is guaranteed and so on.
 
-https://www.youtube.com/watch?v=_160oMzblY8
+{{< youtube _160oMzblY8 >}}
