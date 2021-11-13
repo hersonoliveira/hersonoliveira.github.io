@@ -9,3 +9,5 @@ hugo.linux
 
 # vscode
 /.vscode
+
+.hugo_build.lock
